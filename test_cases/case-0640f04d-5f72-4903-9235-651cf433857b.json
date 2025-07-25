@@ -1,0 +1,17 @@
+{
+  "id": "0640f04d-5f72-4903-9235-651cf433857b",
+  "project_id": "0572bd65-08e9-4d80-86e2-6e3f30f2ca92",
+  "test_plan_id": null,
+  "title": "tes1",
+  "description": "test",
+  "preconditions": "https://github.com/IlyaKurilin/casw.git",
+  "steps": "https://github.com/IlyaKurilin/casw.git",
+  "expected_result": "https://github.com/IlyaKurilin/casw.git",
+  "priority": "medium",
+  "status": "draft",
+  "created_by": null,
+  "assigned_to": null,
+  "section_id": "2d32d539-ecf6-4f3f-bc6f-5dfd799d1e19",
+  "created_at": "2025-07-25T11:16:41.680Z",
+  "updated_at": "2025-07-25T11:16:44.340Z"
+}
