@@ -1,0 +1,17 @@
+{
+  "id": "ff6c94ba-f9c1-4040-9e9f-7989dc9ba9a1",
+  "project_id": "1a0eb4ef-aea2-42e9-9f72-6aa217b4eff5",
+  "test_plan_id": "8b8380fb-af4d-4cd2-9341-08100ed3c4ee",
+  "title": "12",
+  "description": "12",
+  "preconditions": "12",
+  "steps": "https://github.com/IlyaKurilin/casw.git",
+  "expected_result": "https://github.com/IlyaKurilin/casw.git",
+  "priority": "medium",
+  "status": "draft",
+  "created_by": null,
+  "assigned_to": null,
+  "section_id": null,
+  "created_at": "2025-07-25T15:15:12.799Z",
+  "updated_at": "2025-07-25T15:16:03.072Z"
+}
